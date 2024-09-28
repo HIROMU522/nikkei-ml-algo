@@ -2,30 +2,8 @@
 .ipynb_checkpoints/
 
 # トラッシュフォルダ 
-.Trash-*/info
-
-# Docker関連の不要なファイル
-docker-compose.override.yml
-docker-compose.override.yaml
-
-# ログファイル
-*.log
-
-# Pythonに関連する不要ファイル
-__pycache__/
-*.py[cod]
-*.so
-
-# 環境設定ファイル
-venv/
-env/
-*.env
-*.venv
-.Python
-*.pyo
+.Trash-0/
 
 # OSやIDEが生成する不要なファイル
 .DS_Store
-.idea/
-.vscode/
-*.swp
+
